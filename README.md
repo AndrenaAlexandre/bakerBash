@@ -15,6 +15,7 @@ The multi player game has the feature of video chat and messaging to allow you t
 
 ## Humble Beginnings
 ![Image of Scrapper](/images/scrapper.jpg)
+
 As you can see this started off with a completely different name and appearance, but the objective of making matches remained!
 
 ## Languages
