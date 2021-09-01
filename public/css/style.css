@@ -22,7 +22,7 @@ border: double 10px black;
 
 .biggerHolder{
     height: 750px;
-    background-image: url("/images/background.png");
+    background-image: url("/bakerBashGame/public/images/background.png");
 }
 .holder{
     display: flex;
@@ -83,7 +83,7 @@ border: double 10px black;
 .bettyBaker{
     height: 600px;
     /* border: solid 2px black; */
-    background-image: url("/images/bettyBaker.png");
+    background-image: url("/bakerBashGame/public/images/bettyBaker.png");
     background-repeat: no-repeat;
     
 }
