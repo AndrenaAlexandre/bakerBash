@@ -35,12 +35,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 //create colors in an array
     const candyColors = [
-    'url(/bakerBashGame/public/images/red-candy.png)',
-    'url(/bakerBashGame/public/images/yellow-candy.png)',
-    'url(/bakerBashGame/public/images/orange-candy.png)',
-    'url(/bakerBashGame/public/images/purple-candy.png)',
-    'url(/bakerBashGame/public/images/green-candy.png)',
-    'url(/bakerBashGame/public/images/blue-candy.png)'
+    'url(/images/red-velvet.png)',
+    'url(/images/vanilla-cupcake.png)',
+    'url(/images/bundt-cake.png)',
+    'url(/images/vanilla-donut.png)',
+    'url(/images/chocolate-donut.png)',
+    'url(/images/blue-cupcake.png)'
 ]
 //afterwards I went and added the url with corresponding candy color
 //so that the candy showed up instead of the color.
