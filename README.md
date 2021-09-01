@@ -25,7 +25,7 @@ This game was written in Javascript and HTML. I used Photoshop to create my own 
 If you would like to go ahead and play them game follow the link below!!
 I was able to get 154 brownie points in 90 seconds! I challenge you to beat me :D
 
--->    <--
+--> https://bakerbash.netlify.app <--
 
 
 Brought to you by
