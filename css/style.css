@@ -1,6 +1,6 @@
 .grid{
-height: 608px;
-width: 608px;
+max-height: 608px;
+max-width: 608px;
 display: flex;
 flex-wrap: wrap;
 border: double 10px black;
@@ -9,15 +9,16 @@ border: double 10px black;
 .grid div{
     height: 70px;
     width: 70px;
-    border: solid 3px black;
+    /* border: solid 1px black; */
 }
 
 .scoreKeeper{
 height: 608px;
 width: 300px;
 display: flexbox;
-flex-wrap: wrap;
+flex-wrap: nowrap;
 border: double 10px black;
+
 }
 
 .biggerHolder{
@@ -27,10 +28,10 @@ border: double 10px black;
 .holder{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: center;
-    /* width: 1000px; */
-    margin-right: 0;
+    min-width: 885px;
+    max-height: 628px;
     
 }
 
@@ -58,6 +59,7 @@ border: double 10px black;
     text-align: center;
     padding-top: 5px;
     text-shadow: black 1px 1px;
+    
     
 }
 
