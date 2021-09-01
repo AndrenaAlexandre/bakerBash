@@ -14,7 +14,7 @@ Smack Board was created as an online arcade to play different solo player and ev
 The multi player game has the feature of video chat and messaging to allow you to "Talk Smack!" as you play.
 
 ## Humble Beginnings
-![Image of Scrapper](/public/images/scrapper.jpg)
+![Image of Scrapper](/images/scrapper.jpg)
 As you can see this started off with a completely different name and appearance, but the objective of making matches remained!
 
 ## Languages
