@@ -22,7 +22,7 @@ border: double 10px black;
 
 .biggerHolder{
     height: 750px;
-    background-image: url("/bakerBashGame/public/images/background.png");
+    background-image: url("/images/background.png");
 }
 .holder{
     display: flex;
