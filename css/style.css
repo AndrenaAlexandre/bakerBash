@@ -24,7 +24,7 @@ padding:2px;
 }
 
 .biggerHolder{
-    height: 750px;
+    min-height: 810px;
     background-image: url("/images/background.png");
     
 }
@@ -47,7 +47,7 @@ padding:2px;
     padding-top: 5px;
     padding-bottom: 5px;
     /* background-image: url("/images/background.png"); */
-    margin-bottom: 105px;
+    margin-bottom: 70px;
 }
 
 .topBox{
