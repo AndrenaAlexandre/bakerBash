@@ -18,9 +18,9 @@ height: 608px;
 width: 308px;
 display: flexbox;
 flex-wrap: nowrap;
-border: double 10px black;
-border: solid 5px #efbf4b;
+border: dotted 5px #efbf4b;
 padding:2px;
+background-color: #efbf4b75;
 }
 
 .biggerHolder{
@@ -110,7 +110,7 @@ button{
     font-weight:bolder ;
     color: white;
     text-shadow: black 1px 1px;
-    border: solid 2px #f72f90;
+    border: dotted 2px #f72f90;
     border-radius: 2px;
     margin-top: 385px;
     margin-left: 45px;
@@ -119,6 +119,6 @@ button{
 
 button:hover{
     background-color: #f72f90;
-    border: solid 3px white;
+    border: dotted 3px white;
     color: #e0aec6
 }
