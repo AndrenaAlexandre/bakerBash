@@ -19,8 +19,10 @@ width: 308px;
 display: flexbox;
 flex-wrap: nowrap;
 border: dotted 5px #efbf4b;
+border-radius: 5px;
 padding:2px;
-background-color: #efbf4b75;
+background-color: #f1c55f46;
+margin-right: 7px;
 }
 
 .biggerHolder{
@@ -52,37 +54,33 @@ background-color: #efbf4b75;
 
 .topBox{
     height: 125px;
-    /* border: solid 2px black; */
-    font-family: Cambria;
-    font-size: 24px;
-    font-weight: bold;
-    color: #73d4fa;
-    /* display: flex; */
+    font-size: 26px;
+    color: #faf173;
+    font-weight: 800;
     align-items: space-between;
     justify-items: center;
     text-align: center;
     padding-top: 5px;
-    text-shadow: black 1px 1px;
-    
-    
+    font-family: 'Sniglet';
+    -webkit-text-stroke: 1px  #b4dfce;
 }
 
 .instructions{
+    font-family: 'Sniglet', cursive;
     text-align: center;
     font-size: 12;
-    color: black;
+    color: #bd3e2f;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-weight: bolder;
-
+    /* font-weight: bolder; */
+    -webkit-text-stroke:1px rgba(247, 179, 54, 0.877);
 }
 
 .score h1{
     font-size: 50px;
-    font-weight: bolder;
-    font-style: italic;
+    font-family: 'Sniglet', cursive;
     color:blue ;
-    text-shadow: black 2px 2px;
+    text-shadow: #fde8a3(0, 0, 0, 0.966) 3px 3px;
     text-align: center;
 }
 
@@ -106,10 +104,9 @@ button{
     height:40px;
     background-color: #d780aa;
     font-size: 24px;
-    font-style: italic;
-    font-weight:bolder ;
+    font-family: 'Sniglet', cursive;
     color: white;
-    text-shadow: black 1px 1px;
+    text-shadow: black 2px 2px;
     border: dotted 2px #f72f90;
     border-radius: 2px;
     margin-top: 385px;
