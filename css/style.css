@@ -15,12 +15,12 @@ flex-wrap: wrap;
 
 .scoreKeeper{
 height: 608px;
-width: 300px;
+width: 308px;
 display: flexbox;
 flex-wrap: nowrap;
 border: double 10px black;
 border: solid 5px #efbf4b;
-
+padding:2px;
 }
 
 .biggerHolder{
