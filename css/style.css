@@ -3,7 +3,7 @@ max-height: 608px;
 max-width: 608px;
 display: flex;
 flex-wrap: wrap;
-border: double 10px black;
+/* border: double 10px black; */
 }
 
 .grid div{
@@ -19,11 +19,12 @@ width: 300px;
 display: flexbox;
 flex-wrap: nowrap;
 border: double 10px black;
+border: solid 5px #efbf4b;
 
 }
 
 .biggerHolder{
-    height: auto;
+    height: 750px;
     background-image: url("/images/background.png");
     
 }
@@ -50,7 +51,7 @@ border: double 10px black;
 
 .topBox{
     height: 125px;
-    border: solid 2px black;
+    /* border: solid 2px black; */
     font-family: Cambria;
     font-size: 24px;
     font-weight: bold;
